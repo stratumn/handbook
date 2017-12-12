@@ -30,7 +30,7 @@ While all parties must agree to any given mediation session (they are voluntary)
 
 ## Stratumn Repair Mediation Process
 
-Professional-level mediation requires hundreds of hours of practice and a wide variety of skills. Stratumn provides any colleagues interested in mediation skills with resources to conduct further training, both on-site and off-site. We refer to “Stratumn Repair Guidelines” for the very basics of how the mediator and participant should behave during the mediation.
+Professional-level mediation requires hundreds of hours of practice and a wide variety of skills. Stratumn provides any colleagues interested in mediation skills with resources to conduct further training, both on-site and off-site. We refer to [Stratumn Repair Guidelines](./repair-guidelines.md) for the very basics of how the mediator and participant should behave during the mediation.
 
 The actual mediation process may follow this simple outline:
 
