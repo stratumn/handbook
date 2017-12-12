@@ -27,7 +27,7 @@ Mediators facilitate agreements between participants. They do not suggest or imp
 ## Procedural - A balanced process
   - Avoid any appearance of bias
   - Correct any observed power imbalances
-  - Follow the mediation process outlined in +Proposal: Stratumn Repair (Conflict Resolution Process) 
+  - Follow the mediation process outlined in [Stratumn Repair](./repair.md)
 
 
 ## Substantive - A valuable use of time
